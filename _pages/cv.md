@@ -34,7 +34,7 @@ You can also view my publication list on any of the following sites: \\
 ### 2022
 [9] DESI Collaboration, including **Pucha, R.**, et al., *Overview of the Instrument for the Dark Energy Spectroscopic Instrument*, AJ, 164, 209 (2022) [[arXiv](https://arxiv.org/abs/2205.10939)][[ADS](https://ui.adsabs.harvard.edu/abs/2022AJ....164..207D/abstract)]  
 
-[8] **Pucha, R.**, Reddy, N., Dey, A., et al., *Ly*$\alpha$ *Escape from Low-mass, Compact, High-Redshift Galaxies*, AJ, 164, 159 (2022) [[arXiv](https://arxiv.org/abs/2207.14303)][[ADS](https://ui.adsabs.harvard.edu/abs/2022AJ....164..159P/abstract)] 
+[8] **Pucha, R.**, Reddy, N., Dey, A., et al., *LyA Escape from Low-mass, Compact, High-Redshift Galaxies*, AJ, 164, 159 (2022) [[arXiv](https://arxiv.org/abs/2207.14303)][[ADS](https://ui.adsabs.harvard.edu/abs/2022AJ....164..159P/abstract)] 
 
 [7] Hviding, R., Hainline, K., Rieke, M., including **Pucha, R.**, et al., *A New Infrared Criterion for Selecting Active Galactic Nuclei to Lower Luminosities*, AJ, 163, 223 (2022) [[arXiv](https://arxiv.org/abs/2203.11217)][[ADS](https://ui.adsabs.harvard.edu/abs/2022AJ....163..224H/abstract)]
 
