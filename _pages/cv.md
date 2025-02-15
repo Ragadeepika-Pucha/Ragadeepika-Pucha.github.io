@@ -11,14 +11,17 @@ Find my complete CV [here](http://ragadeepika-pucha.github.io/files/Pucha_CV.pdf
 
 The list below includes refereed journal papers and submitted preprints. 
 You can also view my publication list on any of the following sites: \\
-[arXiv](https://arxiv.org/search/astro-ph?query=Pucha%2C+R&searchtype=author&abstracts=show&order=-announced_date_first&size=50)|[NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Pucha%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0)|[Google Scholar](https://scholar.google.com/citations?user=rYmuM7YAAAAJ&hl=en&oi=ao)|[ORCID 0000-0002-4940-3009](https://orcid.org/0000-0002-4940-3009)
+[arXiv](https://arxiv.org/search/astro-ph?query=Pucha%2C+R&searchtype=author&abstracts=show&order=-announced_date_first&size=50){: .btn .btn-outline .mr-2} 
+[NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Pucha%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn-outline .mr-2}
+[Google Scholar](https://scholar.google.com/citations?user=rYmuM7YAAAAJ&hl=en&oi=ao){: .btn .btn-outline .mr-2}
+[ORCID 0000-0002-4940-3009](https://orcid.org/0000-0002-4940-3009){: .btn .btn-outline}
 
 ### 2024
 [17] **Pucha, R.**, Juneau, S., Dey, A., et al., *Tripling the Census of Dwarf AGN Candidates using DESI Early Data*, Accepted for Publication, ApJ [[arXiv](https://arxiv.org/abs/2411.00091)][[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241100091P/abstract)]
 
 [16] de los Reyes, M., Asali, Y., Wechsler, R., including **Pucha, R.**, et al., *Stellar Mass Calibrations for Local Low-Mass Galaxies*, Submitted to ApJ [[arXiv](https://arxiv.org/abs/2409.03959)][[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240903959D/abstract)]
 
-[15] Juneau, S., Canning, R., Alexandar, D., **Pucha, R.**, et al., *Identifying Quasars from the DESI Bright Galaxy Survey*, Submitted to ApJ [[arXiv](https://arxiv.org/abs/2404.03621)][[ADS]https://ui.adsabs.harvard.edu/abs/2024arXiv240403621J/abstract]
+[15] Juneau, S., Canning, R., Alexandar, D., **Pucha, R.**, et al., *Identifying Quasars from the DESI Bright Galaxy Survey*, Submitted to ApJ [[arXiv](https://arxiv.org/abs/2404.03621)][[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240403621J/abstract)]
 
 [14] Siudek, **Pucha, R.**, M., Mezcua, M. et al., *Value Added Catalog of Physical Properties of more than 1.3 million galaxies from the DESI Survey*, A&A, 691, 308 (2024) [[arXiv](https://arxiv.org/abs/2409.19066)][[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.308S/abstract)]
 
@@ -42,7 +45,7 @@ You can also view my publication list on any of the following sites: \\
 [6] Nidever, D., Dey, A., Fasbender, K., including **Pucha, R.**, et al., *Second Data Release of the All-sky NOIRLab Source Catalog*, AJ, 161, 192 (2021) [[arXiv](https://arxiv.org/abs/2011.08868)][[ADS](https://ui.adsabs.harvard.edu/abs/2021AJ....161..192N/abstract)]
 
 ### 2020
-[5] Pat, F., Juneau, S., B\"ohm, V., **Pucha, R.**, et al., *Reconstucting and Classifying SDSS DR16 Galaxy Spectra with Machine-Learning and Dimensionality Reduction Algoriths*, ASP Conference Series, Vol. 525, p67 (2020) [[arXiv](https://arxiv.org/abs/2211.11783)][[ADS](https://ui.adsabs.harvard.edu/abs/2020ASPC..525...67P/abstract)]
+[5] Pat, F., Juneau, S., Böhm, V., **Pucha, R.**, et al., *Reconstucting and Classifying SDSS DR16 Galaxy Spectra with Machine-Learning and Dimensionality Reduction Algoriths*, ASP Conference Series, Vol. 525, p67 (2020) [[arXiv](https://arxiv.org/abs/2211.11783)][[ADS](https://ui.adsabs.harvard.edu/abs/2020ASPC..525...67P/abstract)]
 
 ### 2019
 [4] Carlin, J., Garling, C., Peter, A., including **Pucha, R.**, et al., *Tidal Destruction in a Low-mass Galaxy Environment: The Discovery of Tidal tails around DDO 44*, ApJ, 886, 109 (2019) [[arXiv](https://arxiv.org/abs/1906.08260)][[ADS](https://ui.adsabs.harvard.edu/abs/2019ApJ...886..109C/abstract)]
