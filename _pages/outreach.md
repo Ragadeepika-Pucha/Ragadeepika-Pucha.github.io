@@ -22,7 +22,7 @@ Feel free to contact me for any speaking requests or for ways to connect. </p>
 ## Project Bharati
 
 <p style='text-align: justify;'> 
-I strongly believe that research should be accessible to everyone, irrespective of the position they hold. Many undergraduate students throughout the world do not have access to hands-on research experience before they apply for the graduate programs. For this purpose, I started an initiative, *Project Bharati*, with the aim of helping students find ways and resources to get started with scientific research. The goal is help students get a sense of how research works and to develop a skillset that will contribute to their future. <br/> <br/>
+I strongly believe that research should be accessible to everyone, irrespective of the position they hold. Many undergraduate students throughout the world do not have access to hands-on research experience before they apply for the graduate programs. For this purpose, I started an initiative, <i>Project Bharati</i>, with the aim of helping students find ways and resources to get started with scientific research. The goal is help students get a sense of how research works and to develop a skillset that will contribute to their future. <br/> <br/>
 
 Under this umbrella, I have four mentees at the moment who are interested in pursuing astronomy research. I have regular virtual classes for them, where I teach basics of astronomy as well as some basic astronomy-research tools such as python, SQL, etc, that are required for astronomy research. I help them develop their CV and also motivate them to apply for various summer internships. I am currently advising one of the students on an astronomy-based project using publicly available data. <br/> <br/>
 
