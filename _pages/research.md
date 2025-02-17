@@ -5,7 +5,9 @@ permalink: /research/
 author_profile: false
 ---
 <p style='text-align: justify;'> 
-My research focuses on understanding how low-mass "dwarf" galaxies form and evolve in the Universe. Dwarf galaxies are the most abundant galaxies in the Universe, yet they remain poorly understood. What are their evolutionary histories? Do they follow the same path as massive galaxies? Do they have black holes? If yes, how do these black holes and the galaxies grow together? I use multi-wavelength observations of dwarf galaxies to answer such key questions in galactic astronomy. I detail my current and past research below. You can also check out my <a href="http://ragadeepika-pucha.github.io/files/Pucha_CV.pdf" target="_blank">CV</a> or the <a href="http://ragadeepika-pucha.github.io/cv/" target="_blank">list of my publications</a>. </p>
+My research focuses on understanding how low-mass "dwarf" galaxies form and evolve in the Universe. Dwarf galaxies are the most abundant galaxies in the Universe, yet they remain poorly understood. What are their evolutionary histories? Do they follow the same path as massive galaxies? Do they have black holes? If yes, how do these black holes and the galaxies grow together? I use multi-wavelength observations of dwarf galaxies to answer such key questions in galactic astronomy. <br/>
+
+ I detail my current and past research below. You can also check out my <a href="http://ragadeepika-pucha.github.io/files/Pucha_CV.pdf" target="_blank">CV</a> or the <a href="http://ragadeepika-pucha.github.io/cv/" target="_blank">list of my publications</a>. </p>
 
 ## Current Research
 
