@@ -15,7 +15,9 @@ I was born in <a href="https://en.wikipedia.org/wiki/Hyderabad">Hyderabad, India
 
 [Curriculum Vitae](http://ragadeepika-pucha.github.io/files/Pucha_CV.pdf){: .btn .btn-purple}
 
-## Latest 
+## Media Highlights 
 
-* [DESI Finds Black Holes are Common in Small Galaxies Too](https://www.desi.lbl.gov/2025/02/08/desi-finds-black-holes-are-common-in-small-galaxies-too/)
-* [A Cosmin Census Triples the Known Number of Black Holes in Dwarf Galaxies](https://www.sciencenews.org/article/census-black-holes-dwarf-galaxies)
+* [DESI Finds Black Holes are Common in Small Galaxies Too](https://www.desi.lbl.gov/2025/02/08/desi-finds-black-holes-are-common-in-small-galaxies-too/) [DESI Blog, 2025/02]
+* [A Substantial Increase in the Census of Dwarf AGN Candidates from DESI Early Data](https://ui.adsabs.harvard.edu/abs/2025Mirro...8...10P/abstract) [NOIRLab The Mirror, 2025/01]
+* [A Cosmin Census Triples the Known Number of Black Holes in Dwarf Galaxies](https://www.sciencenews.org/article/census-black-holes-dwarf-galaxies) [ScienceNews, 2024/11]
+* [Dark Energy Spectroscopic Instrument (DESI) Creates Largest 3D Map of the Cosmos](https://news.arizona.edu/news/dark-energy-spectroscopic-instrument-creates-largest-3d-map-cosmos) [University of Arizona News, 2022/02]
