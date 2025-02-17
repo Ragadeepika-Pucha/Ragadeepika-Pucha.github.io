@@ -16,8 +16,8 @@ Dwarf galaxies are considered to be building blocks of larger, more massive gala
 
 | <img align="left" src="http://ragadeepika-pucha.github.io/images/ic1613.jpg" width="1000"/> | 
 
-<figure>
-  <img align="left" src="http://ragadeepika-pucha.github.io/images/ic1613.jpg" width="1500"/>
+<figure style="float: left; margin-right: 20px;">
+  <img src="http://ragadeepika-pucha.github.io/images/ic1613.jpg" width="500"/>
   <figcaption> IC1613 Dwarf Irregular Galaxy (Image Credits: ESO) </figcaption>
 </figure>
 
