@@ -12,9 +12,10 @@ Dwarf galaxies are considered to be building blocks of larger, more massive gala
 
 ## Past Research
 
-### Evidence of Hierarchical Accretion in a Dwarf Irregular Galaxy
+### Ly$$\alpha$$ Escape is Efficient in Compact Star-Forming Galaxies with Low Gravitational Potential
 
-| <img align="left" src="http://ragadeepika-pucha.github.io/images/ic1613.jpg" width="1000"/> | 
+
+### Evidence of Hierarchical Accretion in a Dwarf Irregular Galaxy 
 
 <figure style="float: left; margin-right: 20px;">
   <img src="http://ragadeepika-pucha.github.io/images/ic1613.jpg" width="500"/>
