@@ -13,7 +13,7 @@ My research focuses on understanding how low-mass "dwarf" galaxies form and evol
 
 ### [Pushing the Limits of the Search for AGN in Dwarf Galaxies](https://ui.adsabs.harvard.edu/abs/2024arXiv241100091P/abstract)
 
-<div style="float: center; width: 800px;">
+<div style="width: 800px; margin: 0 auto; text-align: center;">
   <img src="http://ragadeepika-pucha.github.io/images/Mstar_z.png" width="100%" />
   <figcaption> Figure from Pucha et al. (2025) </figcaption>
 </div>
