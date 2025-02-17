@@ -31,4 +31,4 @@ Feel free to contact me if you want to learn about pursuing scientific research.
 
 ## Interviews 
 
-* I had the honor of being interviewed by [STEMM4Girls](https://www.linkedin.com/company/stemm4girls), a student-led initiative that advocates for the advancement of Science, Technology, Engineering, Mathematics & Medicine (STEMM) education for girls. In the [interview](https://www.youtube.com/watch?v=tp8KxYbb3kA&pp=ygURcmFnYWRlZXBpa2EgcHVjaGE%3D), I shared my journey in research and the insights I have gained along the way.
+* I had the honor of being interviewed by [STEMM4Girls](https://www.linkedin.com/company/stemm4girls), a student-led initiative that advocates for the advancement of Science, Technology, Engineering, Mathematics & Medicine (STEMM) education for girls. In the [interview](https://www.youtube.com/watch?v=tp8KxYbb3kA&pp=ygURcmFnYWRlZXBpa2EgcHVjaGE%3D), I shared my journey into research and the insights I have gained along the way.
