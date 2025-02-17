@@ -13,7 +13,7 @@ My research focuses on understanding how low-mass "dwarf" galaxies form and evol
 
 ### Co-Evolution of Dwarf Galaxies and Their Central Black Holes
 
-<p style='text-align: justify;> 
+<p style='text-align: justify;'> 
 
 The role of active BHs (or AGN) in the evolution of dwarf galaxies is a topic of active debate. The immense energy released by an AGN can profoundly influence the growth of dwarf galaxies, especially since these galaxies often struggle to retain gas for star formation due to their lower mass (and therefore lower gravitational potentials). This dynamic raises interesting questions about the balance between star formation, which is essential for galaxy growth, and AGN activity, which fuels BH growth. With our expanded census of dwarf AGN candidates (see below), we are now leveraging multi-wavelength data (from X-rays to infrared) to explore how dwarf galaxies and their cenral BHs grow, and whether one influences the other or if they co-evolve together.
 </p>
