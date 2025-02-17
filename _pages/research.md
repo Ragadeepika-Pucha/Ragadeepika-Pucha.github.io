@@ -14,4 +14,13 @@ Dwarf galaxies are considered to be building blocks of larger, more massive gala
 
 ### Evidence of Hierarchical Accretion in a Dwarf Irregular Galaxy
 
-| <img align="left" src="http://ragadeepika-pucha.github.io/images/ic1613.jpg" width="1000"/> | One of the key questions related to dwarf galaxies is how they are structured and formed. Mapping the resolved stellar populations in the faint outer regions is pivotal for disentangling the structure formation scenarios in low-mass galaxies - whether they are formed by internal processes or by hierarchical accretion. We used the Subaru telescope to conduct the widest and deepest survey of resolved stellar populations in a local group dwarf galaxy, IC 1613, to understand the structure of its outer regions. We found evidence of accretion, in addition to an in-situ component from a possible stellar feedback event. This pioneering study provides a starting point for future detailed wide-field studies of low-mass galaxies with the upcoming Vera Rubin Observatory.
+| <img align="left" src="http://ragadeepika-pucha.github.io/images/ic1613.jpg" width="1000"/> | 
+
+<figure>
+  <img align="left" src="http://ragadeepika-pucha.github.io/images/ic1613.jpg" width="1500"/>
+  <figcaption> IC1613 Dwarf Irregular Galaxy (Image Credits: ESO) </figcaption>
+</figure>
+
+One of the key questions about dwarf galaxies is how they are built and what shapes them. Studying the resolved stars in the faint outer parts of these galaxies is crucial for understanding how they formed - whether it is from their own internal processes or from merging with other smaller galaxies. Using the Subaru telescope, we conducted the widest and deepest survey of resolved stellar populations in a nearby dwarf galaxy, IC1613, to explore the structure of its outer regions. We found some evidence of accretion, in accretion to a stellar component from a possible stellar feedback event. This pioneering study lays the foundation for future wide-field studies of low-mass galaxies, especially with the upcoming Vera Rubin Observatory.
+
+
