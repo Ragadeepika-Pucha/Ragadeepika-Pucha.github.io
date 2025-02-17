@@ -8,7 +8,7 @@ author_profile: false
 Here, I compile a list of places I have been for meetings, conferences, workshops etc.
 
 ### 2024
-* Dec 10 - Dec 13: DESI Collaboration Meeting, Cancun, Mexico
+* Dec 10 - Dec 13: DESI Collaboration Meeting, Cancún, Mexico
 
 ### 2023
 * Jan 8 - Jan 12: [241st AAS Meeting](https://aas.org/meetings/aas241), Seattle, WA, USA
