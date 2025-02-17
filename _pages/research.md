@@ -5,10 +5,20 @@ permalink: /research/
 author_profile: false
 ---
 
-My research focuses on understanding how low-mass "dwarf" galaxies form and evolve in the Universe. Dwarf galaxies are the most abundant galaxies in the Universe, yet they remain poorly understood. What are their evolutionary histories? Do they follow the same path as massive galaxies? Do they have black holes? If yes, how do these black holes and the galaxies grow together? I use multi-wavelength observations of dwarf galaxies to answer such key questions in galactic astronomy.
+My research focuses on understanding how low-mass "dwarf" galaxies form and evolve in the Universe. Dwarf galaxies are the most abundant galaxies in the Universe, yet they remain poorly understood. What are their evolutionary histories? Do they follow the same path as massive galaxies? Do they have black holes? If yes, how do these black holes and the galaxies grow together? I use multi-wavelength observations of dwarf galaxies to answer such key questions in galactic astronomy. I detail my current and past research below. You can also check our my [CV](http://ragadeepika-pucha.github.io/files/Pucha_CV.pdf) or the [list of my publications]((http://ragadeepika-pucha.github.io/cv/)).
+
+## Current Research
+
+### [Pushing the Limits of the Search for AGN in Dwarf Galaxies](https://ui.adsabs.harvard.edu/abs/2024arXiv241100091P/abstract)
+
+<div style="float: center; width: 800px;">
+  <img src="http://ragadeepika-pucha.github.io/images/Mstar_z.png" width="100%" />
+  <figcaption> Figure from Pucha et al. (2025) </figcaption>
+</div>
 
 
-Dwarf galaxies are considered to be building blocks of larger, more massive galaxies such as our own Milky Way. Understanding the growth of dwarf galaxies at different epochs of the Universe. I detail my current and past research below. 
+
+
 
 ## Past Research
 
@@ -16,10 +26,10 @@ Dwarf galaxies are considered to be building blocks of larger, more massive gala
 
 <div style="float: center; width: 1000px;">
   <img src="http://ragadeepika-pucha.github.io/images/Lya_Escape.png" width="100%" />
+  <figcaption> Figure from Pucha et al. (2022) </figcaption>
 </div>
 
 Lyman-Alpha Emitters (LAEs) are faint low-mass, star-forming galaxies at high redshifts (larger distances), and they are mainly identified based on their strong Lyα emission. However, Lyα photons are resonant in nature, meaning they interact repeatedly with any available neutral hydrogen atoms, and it is unclear how they manage to escape from galaxies.  Understanding how Lyα escapes helps us learn more about the distribution of gas and dust in galaxies, and how stellar processes contribute to the escape of ionizing photons from low-mass galaxies. We used multi-wavelength observations from the Subaru telescope and the Hubble Space telescope to study the faintest LAEs at a redshift, z ≈ 2.65, and compared them with typical star-forming galaxies at z ≈ 2-3. Our results suggest that the compact shapes of low-mass galaxies can lead to conditions that makes in easier for Lyα photons to escape. This research offers insights into the processes that led to the reionization of the universe and connects to studies of primordial galaxies with the James Webb Space Telescope.
-
 
 ### [Evidence of Hierarchical Accretion in a Dwarf Irregular Galaxy](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..104P/abstract)
 
