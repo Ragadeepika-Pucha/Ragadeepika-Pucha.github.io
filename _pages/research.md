@@ -12,14 +12,19 @@ Dwarf galaxies are considered to be building blocks of larger, more massive gala
 
 ## Past Research
 
-### [Ly$\\alpha$ Escape is Efficient in Compact Star-Forming Galaxies with Low Gravitational Potential](https://ui.adsabs.harvard.edu/abs/2022AJ....164..159P/abstract)
+### [Lyα Escape is Efficient in Compact Star-Forming Galaxies with Low Gravitational Potential](https://ui.adsabs.harvard.edu/abs/2022AJ....164..159P/abstract)
 
-Lyman-Alpha Emitters (LAEs) are faint low-mass, star-forming galaxies at high redshifts, that are primarily detected based on their strong Ly$\\alpha$ emission. However, Ly$\\alpha$ is a resonant line and it is currently not clear about what leads to the escape of these photons from star-forming galaxies. Understanding how Ly$\\alpha$ escapes from these galaxies, in comparison with typical star-forming galaxies, informs us about the distribution of gas and dust in these galaxies, and how the stellar processes contribute to the escape of ionizing photons from low-mass galaxies. We used multi-wavelength photometric observations using the Subaru telescope and the Hubble Space Telescope to study the faintest LAEs at z $\\approx$ 2.56 and compare them to typical star-forming galaxies at z $\approx$ 2$-$3. Our findings suggest that the compact morphologies of low-mass systems can lead to conditions that are favorable for the escape of Ly$\\alpha$ photons. This study offers insights into the processes leading to reionization and connects to the studies of primordial galaxies with the James Webb Space Telescope.
+<div style="float: center; width: 500px;">
+  <img src="http://ragadeepika-pucha.github.io/images/Lya_Escape.png" width="100%" />
+  <figcaption> IC1613 Dwarf Irregular Galaxy (Image Credits: ESO) </figcaption>
+</div>
+
+Lyman-Alpha Emitters (LAEs) are faint low-mass, star-forming galaxies at high redshifts, that are primarily detected based on their strong Lyα emission. However, Lyα is a resonant line and it is currently not clear about what leads to the escape of these photons from star-forming galaxies. Understanding how Lyα escapes from these galaxies, in comparison with typical star-forming galaxies, informs us about the distribution of gas and dust in these galaxies, and how the stellar processes contribute to the escape of ionizing photons from low-mass galaxies. We used multi-wavelength photometric observations using the Subaru telescope and the Hubble Space Telescope to study the faintest LAEs at z ≈ 2.56 and compare them to typical star-forming galaxies at z ≈ 2 - 3. Our findings suggest that the compact morphologies of low-mass systems can lead to conditions that are favorable for the escape of Lyα photons. This study offers insights into the processes leading to reionization and connects to the studies of primordial galaxies with the James Webb Space Telescope.
 
 
 ### [Evidence of Hierarchical Accretion in a Dwarf Irregular Galaxy](https://ui.adsabs.harvard.edu/abs/2019ApJ...880..104P/abstract)
 
-<div style="float: left; margin-right: 20px; width: 400px;">
+<div style="float: left; margin-right: 20px; width: 450px;">
   <img src="http://ragadeepika-pucha.github.io/images/ic1613.jpg" width="100%" />
   <figcaption> IC1613 Dwarf Irregular Galaxy (Image Credits: ESO) </figcaption>
 </div>
