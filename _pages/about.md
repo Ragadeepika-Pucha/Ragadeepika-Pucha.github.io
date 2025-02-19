@@ -17,7 +17,7 @@ I was born in <a href="https://en.wikipedia.org/wiki/Hyderabad">Hyderabad, India
 
 ## Media Highlights 
 
-* [2,500 New Active Black Holes Identified, Raising Questions About How They Evolve](https://www.discovermagazine.com/the-sciences/2-500-new-active-black-holes-identified-raising-questions-about-how-they [Discovery Magazine, 2025/02])
+* [2,500 New Active Black Holes Identified, Raising Questions About How They Evolve](https://www.discovermagazine.com/the-sciences/2-500-new-active-black-holes-identified-raising-questions-about-how-they) [Discovery Magazine, 2025/02]
 * [Largest-ever Discovery of 'missing link' Black Holes Revealed by Dark Energy Camera](https://www.space.com/desi-missing-link-intermediate-mass-black-hole) [Space News, 2025/02]
 * [Treasure Trove of Black Holes in Dwarf Galaxies](https://attheu.utah.edu/facultystaff/treasure-trove-of-black-holes-in-dwarf-galaxies/) [The UNews, 2024/02]
 * [DESI Finds Black Holes are Common in Small Galaxies Too](https://www.desi.lbl.gov/2025/02/08/desi-finds-black-holes-are-common-in-small-galaxies-too/) [DESI Blog, 2025/02]
