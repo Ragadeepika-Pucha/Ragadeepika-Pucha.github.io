@@ -12,7 +12,7 @@ Here, I compile a list of meetings, conferences, workshops, etc., I have been to
 
 ### 2023
 * Dec 11 - Dec 14: DESI Collaboration Meeting, Hawaii, USA
-* Nov 13 - Nov 16: [Coordinating the Next Generation of Spectroscopic Processing and Analysis Tools], NOIRLab, Tucson, AZ, USA
+* Nov 13 - Nov 16: [Coordinating the Next Generation of Spectroscopic Processing and Analysis Tools](https://noirlab.edu/science/events/websites/coordinating-the-next-generation-of-spectroscopic-processing), NOIRLab, Tucson, AZ, USA
 * Jan 8 - Jan 12: [241st AAS Meeting](https://aas.org/meetings/aas241), Seattle, WA, USA
 
 ### 2022
