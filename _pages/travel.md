@@ -35,5 +35,5 @@ Here, I compile a list of meetings, conferences, workshops, etc., I have been to
 * Jan 8 - Jan 12: [231st AAS Meeting](https://aas.org/meetings/aas231), Washington D.C., USA
 
 ### 2017
-* Oct 11 - Oct 13:[Search for Dwarf Companions of the Milky Way and Beyond in the LSST Era](https://noirlab.edu/science/events/websites/dwarf-companions), Tucson, AZ, USA
+* Oct 11 - Oct 13: [Search for Dwarf Companions of the Milky Way and Beyond in the LSST Era](https://noirlab.edu/science/events/websites/dwarf-companions), Tucson, AZ, USA
 * July 31 - Aug 4: SciCoder Workshop, Vanderbilt University, Nashville, TN, USA
