@@ -16,13 +16,16 @@ You can also view my publication list on any of the following sites: \\
 [Google Scholar](https://scholar.google.com/citations?user=rYmuM7YAAAAJ&hl=en&oi=ao){: .btn .btn-outline .mr-2}
 [ORCID 0000-0002-4940-3009](https://orcid.org/0000-0002-4940-3009){: .btn .btn-outline}
 
+### 2025
+[18] DESI Collaboration, including **Pucha, R.**, et al., *Data Release 1 of the Dark Energy Spectroscopic Instrument*, Submitted to ApJ [[arXiv](https://arxiv.org/abs/2503.14745)][[ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250314745D/abstract)]
+
+[17] de los Reyes, M., Asali, Y., Wechsler, R., including **Pucha, R.**, et al., *Stellar Mass Calibrations for Local Low-Mass Galaxies*, Submitted to ApJ [[arXiv](https://arxiv.org/abs/2409.03959)][[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240903959D/abstract)]
+
+[16] **Pucha, R.**, Juneau, S., Dey, A., et al., *Tripling the Census of Dwarf AGN Candidates using DESI Early Data*, ApJ, 982, 1 (2025) [[arXiv](https://arxiv.org/abs/2411.00091)][[ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...982...10P/abstract)]
+
+[15] Juneau, S., Canning, R., Alexandar, D., **Pucha, R.**, et al., *Identifying Missing Quasars from the DESI Bright Galaxy Survey*, AJ, 169, 3 (2025) [[arXiv](https://arxiv.org/abs/2404.03621)][[ADS](https://ui.adsabs.harvard.edu/abs/2025AJ....169..157J/abstract)]
+
 ### 2024
-[17] **Pucha, R.**, Juneau, S., Dey, A., et al., *Tripling the Census of Dwarf AGN Candidates using DESI Early Data*, Accepted for Publication, ApJ [[arXiv](https://arxiv.org/abs/2411.00091)][[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv241100091P/abstract)]
-
-[16] de los Reyes, M., Asali, Y., Wechsler, R., including **Pucha, R.**, et al., *Stellar Mass Calibrations for Local Low-Mass Galaxies*, Submitted to ApJ [[arXiv](https://arxiv.org/abs/2409.03959)][[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240903959D/abstract)]
-
-[15] Juneau, S., Canning, R., Alexandar, D., **Pucha, R.**, et al., *Identifying Quasars from the DESI Bright Galaxy Survey*, Submitted to ApJ [[arXiv](https://arxiv.org/abs/2404.03621)][[ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240403621J/abstract)]
-
 [14] Siudek, **Pucha, R.**, M., Mezcua, M. et al., *Value Added Catalog of Physical Properties of more than 1.3 million galaxies from the DESI Survey*, A&A, 691, 308 (2024) [[arXiv](https://arxiv.org/abs/2409.19066)][[ADS](https://ui.adsabs.harvard.edu/abs/2024A%26A...691A.308S/abstract)]
 
 [13] DESI Collaboration, including **Pucha, R.**, et al., *The Early Data Release of the Dark Energy Spectroscopic Instrument*, AJ, 168, 2 (2024) [[arXiv](https://arxiv.org/abs/2306.06308)][[ADS](https://ui.adsabs.harvard.edu/abs/2024AJ....168...58D/abstract)]
