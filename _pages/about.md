@@ -16,10 +16,10 @@ I was born in <a href="https://en.wikipedia.org/wiki/Hyderabad">Hyderabad, India
 [Curriculum Vitae](http://ragadeepika-pucha.github.io/files/Pucha_CV.pdf){: .btn .btn-purple}
 
 ## Media Highlights 
-
+* ['Now I see you moment' for Andhra-origin scientist. How her team identified 2,500 potential black holes](https://theprint.in/science/now-i-see-you-moment-for-andhra-origin-scientist-how-her-team-identified-2500-potential-black-holes/2510660/) [The Print, 2025/02]
 * [2,500 New Active Black Holes Identified, Raising Questions About How They Evolve](https://www.discovermagazine.com/the-sciences/2-500-new-active-black-holes-identified-raising-questions-about-how-they) [Discovery Magazine, 2025/02]
 * [Largest-ever Discovery of 'missing link' Black Holes Revealed by Dark Energy Camera](https://www.space.com/desi-missing-link-intermediate-mass-black-hole) [Space News, 2025/02]
-* [Treasure Trove of Black Holes in Dwarf Galaxies](https://attheu.utah.edu/facultystaff/treasure-trove-of-black-holes-in-dwarf-galaxies/) [The UNews, 2025/02]
+* ['Vast discovery' of Black Holes in Dwarf Galaxies](https://attheu.utah.edu/facultystaff/treasure-trove-of-black-holes-in-dwarf-galaxies/) [The UNews, 2025/02]
 * [DESI Finds Black Holes are Common in Small Galaxies Too](https://www.desi.lbl.gov/2025/02/08/desi-finds-black-holes-are-common-in-small-galaxies-too/) [DESI Blog, 2025/02]
 * [A Substantial Increase in the Census of Dwarf AGN Candidates from DESI Early Data](https://ui.adsabs.harvard.edu/abs/2025Mirro...8...10P/abstract) [NOIRLab The Mirror, 2025/01]
 * [A Cosmic Census Triples the Known Number of Black Holes in Dwarf Galaxies](https://www.sciencenews.org/article/census-black-holes-dwarf-galaxies) [ScienceNews, 2024/11]
