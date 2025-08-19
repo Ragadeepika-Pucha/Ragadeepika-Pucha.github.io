@@ -5,13 +5,14 @@ permalink: /travel/
 author_profile: false
 ---
 
-Here, I compile a list of meetings, conferences, workshops, visits, etc., I have been to. Virtual attendances are marked with a *.
+Here, I compile a list of meetings, conferences, workshops, visits, etc., I have been to.  <br/>
+Virtual attendances are marked with a *.
 
 ### 2025
 * July 14: Visit to Ludwig Maximilian University of Munich, Germany
 * July 7 - July 11: Visit to Max Planck Institute for Extraterrestrial Physics (MPE) and European Southern Observatory (ESO), Garching, Germany
 * June 30 - July 4: [Quo Vadis Galaxy Evolution?](https://sites.google.com/view/quovadisgalaxyevolution/home), Heidelberg, Germany
-* June 23 - June 25: [Galactic Frontiers II: Dwarf Galaxies in the Local Volume and Beyond], Dartmouth College, Hanover, USA
+* June 23 - June 25: [Galactic Frontiers II: Dwarf Galaxies in the Local Volume and Beyond](https://sites.dartmouth.edu/galactic-frontiers-2025/), Dartmouth College, Hanover, USA
 
 ### 2024
 * Dec 10 - Dec 13: DESI Collaboration Meeting, Cancún, Mexico
