@@ -9,6 +9,8 @@ Here, I compile a list of meetings, conferences, workshops, visits, etc., I have
 Virtual attendances are marked with a *.
 
 ### 2025
+* September 18: Visit to University of Oxford, UK
+* Sept 8 - Sept 12: [Massive Black Holes Across Cosmic Time](https://sites.google.com/cam.ac.uk/mbh2025), Kavli Institute for Cosmology, Cambridge, UK
 * July 14: Visit to Ludwig Maximilian University of Munich, Germany
 * July 7 - July 11: Visit to Max Planck Institute for Extraterrestrial Physics (MPE) and European Southern Observatory (ESO), Garching, Germany
 * June 30 - July 4: [Quo Vadis Galaxy Evolution?](https://sites.google.com/view/quovadisgalaxyevolution/home), Heidelberg, Germany
