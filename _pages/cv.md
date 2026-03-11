@@ -17,7 +17,7 @@ You can also view my publication list on any of the following sites: \\
 [ORCID 0000-0002-4940-3009](https://orcid.org/0000-0002-4940-3009){: .btn .btn-outline}
 
 ### 2026
-[20] **Pucha, R.**, Juneau, S., Mezcua, M. et al., *Active Black Hole Fraction and <p>M<sub>BH</sub></p> - <p>M<sub>&#9733;</sub></p> Scaling Relation with DESI DR1*, in DESI Collaboration Review
+[20] **Pucha, R.**, Juneau, S., Mezcua, M. et al., *Active Black Hole Fraction and M<sub>BH</sub> - M<sub>&#9733;</sub>asteas Scaling Relation with DESI DR1*, in DESI Collaboration Review
 
 [19] Morales, V., Mezcua, M., **Pucha, R.** et al., *Detecting AGN Outflows in Dwarf Galaxies Using DESI DR1*, in DESI Collaboration Review 
 
