@@ -12,7 +12,7 @@ Find my complete CV [here](http://ragadeepika-pucha.github.io/files/Pucha_CV.pdf
 The list below includes refereed journal papers and submitted preprints. 
 You can also view my publication list on any of the following sites: \\
 [arXiv](https://arxiv.org/search/astro-ph?query=Pucha%2C+R&searchtype=author&abstracts=show&order=-announced_date_first&size=50){: .btn .btn-outline .mr-2} 
-[NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3A%20astronomy&q=author%3A(%22Pucha%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn-outline .mr-2}
+[NASA ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=database%3Aastronomy&q=author%3A(%22Pucha%2C%20R%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0){: .btn .btn-outline .mr-2}
 [Google Scholar](https://scholar.google.com/citations?user=rYmuM7YAAAAJ&hl=en&oi=ao){: .btn .btn-outline .mr-2}
 [ORCID 0000-0002-4940-3009](https://orcid.org/0000-0002-4940-3009){: .btn .btn-outline}
 
