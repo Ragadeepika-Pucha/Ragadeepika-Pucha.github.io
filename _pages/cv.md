@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 title: "CV and Publications"
 permalink: /cv/
 author_profile: false
