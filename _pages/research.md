@@ -4,6 +4,8 @@ title: "Research"
 permalink: /research/
 author_profile: false
 ---
+# Research
+
 <p style='text-align: justify;'> 
 My research focuses on understanding how low-mass "dwarf" galaxies form and evolve in the Universe. Dwarf galaxies are the most abundant galaxies in the Universe, yet they remain poorly understood. What are their evolutionary histories? Do they follow the same path as massive galaxies? Do they have black holes? If yes, how do these black holes and the galaxies grow together? I use multi-wavelength observations of dwarf galaxies to answer such key questions in galactic astronomy. <br/><br/>
 
