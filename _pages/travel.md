@@ -8,6 +8,10 @@ author_profile: false
 Here, I compile a list of meetings, conferences, workshops, visits, etc., I have been to.  <br/>
 Virtual attendances are marked with a *.
 
+### 2026
+* Jun 1 - Jun 5: [AI Boot Camp for Astronomers](https://cosmicai.org/astroai-boot-camp), Texas Advanced Computing Center, Austin, USA
+* Apr 20 - Apr 24: [Empowering Science in the Data-Rich Era of Astronomy](https://noirlab.edu/science/news/announcements/sci26009), NSF NOIRLab, Tucson, USA
+
 ### 2025
 * Sept 18: Visit to University of Oxford, UK
 * Sept 8 - Sept 12: [Massive Black Holes Across Cosmic Time](https://sites.google.com/cam.ac.uk/mbh2025), Kavli Institute for Cosmology, Cambridge, UK
