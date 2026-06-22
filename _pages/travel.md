@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "Travel"
 permalink: /travel/
 author_profile: false
