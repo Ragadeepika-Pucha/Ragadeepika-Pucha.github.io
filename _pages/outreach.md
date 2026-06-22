@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: splash
 title: "Outreach"
 permalink: /outreach/
 author_profile: false
@@ -13,7 +13,7 @@ In addition to being a researcher, I aim to be a good mentor to future researche
   <img src="http://ragadeepika-pucha.github.io/images/outreach.jpg" width="100%" />
 </div>
 <p style='text-align: justify;'> 
-I am really interested in developing enthusiasm in kids regarding science. I believe that every child is born a scientist - it is just the effort to nurture those curiosities that is required. I want to help create a difference in making children realize their potential - especially, in recognizing that there are many other fields apart from Engineering and Medicine, where a career can be established. Scientific career is something that I want to promote. <br/><br/>
+I am really interested in fostering enthusiasm for science in students. I believe that every child is born a scientist - it is just the effort to nurture those curiosities that is required. I want to help create a difference in making children realize their potential, especially in recognizing that there are many other fields apart from Engineering and Medicine, where a career can be established. A scientific career is something that I want to promote. <br/><br/>
 
 I have given several in-person and virtual presentations for a variety of public groups, with the aim of developing enthusiasm for astronomy and research. One such talk is available <a href="https://www.youtube.com/watch?v=pXhPQtqK_ks&pp=ygURcmFnYWRlZXBpa2EgcHVjaGE%3D">here</a>. <br/> <br/>
 
