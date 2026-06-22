@@ -5,6 +5,8 @@ permalink: /travel/
 author_profile: false
 ---
 
+# Travel
+
 Here, I compile a list of meetings, conferences, workshops, visits, etc., I have been to.  <br/>
 Virtual attendances are marked with a *.
 
