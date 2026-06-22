@@ -4,6 +4,8 @@ title: "Outreach"
 permalink: /outreach/
 author_profile: false
 ---
+# Outreach
+
 <p style='text-align: justify;'>
 In addition to being a researcher, I aim to be a good mentor to future researchers and a strong advocate for accessible education, irrespective of one's identity, position, and privilege. Below are some of the outreach activities that I have been involved in the past few years. </p>
 
