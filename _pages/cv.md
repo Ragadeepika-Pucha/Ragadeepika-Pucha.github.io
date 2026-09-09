@@ -18,19 +18,24 @@ You can also view my publication list on any of the following sites: \\
 [ORCID 0000-0002-4940-3009](https://orcid.org/0000-0002-4940-3009){: .btn .btn-outline}
 
 ### 2026
-[25] **Pucha, R.**, Juneau, S., Mezcua, M. et al., *A New Record Census of Dwarf AGN and a Bimodal M<sub>BH</sub> - M<sub>\*</sub> Scaling Relation with DESI DR1*, Submitted to AAS Journals [[arXiv](https://arxiv.org/abs/2606.02699)][[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260602699P/abstract)]
 
-[24] Morales, V., Mezcua, M., **Pucha, R.**, et al., *The Largest Sample of AGN Outflows in Dwarf Galaxies using DESI DR1*, in DESI Collaboration Review.
+[26] Jewell, S., Smethurst, R., Lintott, C., including **Pucha, R.**, et al., *Evidence of Secularly-driven Galaxy-SMBH Co-evolution in 2,435 DESI-disk Galaxies*, Submitted in MNRAS.
 
-[23] Jewell, S., Smethurst, R., Lintott, C., including **Pucha, R.**, et al., *Evidence of Secularly-driven Galaxy-SMBH Co-evolution in 2,435 DESI-disk Galaxies*, Submitted in MNRAS.
+[25] Alfarsy, R., Canning, R., Mueller, E., including **Pucha, R.**, et al., *CIV Line Shape Analysis and Black Hole Mass Estimates of DESI Quasars*, in DESI Collaboration Review.
 
-[22] Alcolea, J., Siudek, M., Eriksen, M., including **Pucha, R.**, et al., *Beyond Traditional Emission-line Diagnostics: Using Autoencoders to uncover Active Galactic Nuclei in DESI Spectra*, in DESI Collaboration Review.
+[24] **Pucha, R.**, Juneau, S., Mezcua, M. et al., *A New Record Census of Dwarf AGN and a Bimodal M<sub>BH</sub> - M<sub>\*</sub> Scaling Relation with DESI DR1*, Accepted for Publication in ApJ [[arXiv](https://arxiv.org/abs/2606.02699)][[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260602699P/abstract)]
 
-[21] Alfarsy, R., Canning, R., Mueller, E., including **Pucha, R.**, et al., *CIV Line Shape Analysis and Black Hole Mass Estimates of DESI Quasars*, in DESI Collaboration Review.
+[23] Morales, V., Mezcua, M., **Pucha, R.**, et al., *The Largest Sample of AGN Outflows in Dwarf Galaxies using DESI DR1*, Submitted to MNRAS [[arXiv](https://arxiv.org/abs/2607.02655)][[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260702655R/abstract)]
 
-[20] Alfarsy, R., Canning, R., Mueller, E., including **Pucha, R.**, et al., *Stacked Reverberation Mapping of High Redshift Quasars in DESI. I. Feasibility Analysis*, Accepted for Publication in MNRAS.
+[22] Arévalo, P., Buchner, J., Salvato, M., including **Pucha, R.**, et al., *The X-ray-Weak Tail of the Quasar Population: Physical Properties and Redshift Evolution of Variability-Selected AGN in eFEDs*, Submitted to MNRAS. [[arXiv](https://arxiv.org/abs/2607.27675)][[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260727675A/abstract)]
 
-[19] Mezcua, M., Laloux, B., Scialpi, M., including **Pucha, R.**, et al., *Euclid: Quick Data Release (Q1) - Dual AGN in low-mass galaxies*, Accepted for Publication in A&A [[arXiv](https://arxiv.org/abs/2604.13170)][[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260413170M/abstract)]
+[22] Dadiani, E., Palmese, A., Zhou, Y.,  including **Pucha, R.**, et al., *Cosmic Pairs: A DESI Census of Dual and Offset AGN as Precursors to Massive Black Hole Binaries*, Submitted to AAS Journals. [[arXiv](https://arxiv.org/abs/2607.27390)][[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260727390D/abstract)]
+
+[21] Alcolea, J., Siudek, M., Eriksen, M., including **Pucha, R.**, et al., *Beyond Traditional Emission-line Diagnostics: Using Autoencoders to uncover Active Galactic Nuclei in DESI Spectra*, Accepted for Publication in A&A. [[arXiv](https://arxiv.org/abs/2607.07329)][[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260707329A/abstract)]
+
+[20] Alfarsy, R., Canning, R., Mueller, E., including **Pucha, R.**, et al., *Stacked Reverberation Mapping of High Redshift Quasars in DESI. I. Feasibility Analysis*, MNRAS, 551, 1418. [[arXiv](https://arxiv.org/abs/2607.21869)][[ADS](https://ui.adsabs.harvard.edu/abs/2026MNRAS.551g1418A/abstract)]
+
+[19] Mezcua, M., Laloux, B., Scialpi, M., including **Pucha, R.**, et al., *Euclid: Quick Data Release (Q1) - Dual AGN in low-mass galaxies*, A&A, 712, 83. [[arXiv](https://arxiv.org/abs/2604.13170)][[ADS](https://ui.adsabs.harvard.edu/abs/2026A%26A...712A..83M/abstract)]
 
 [18] DESI Collaboration, including **Pucha, R.**, et al., *Data Release 1 of the Dark Energy Spectroscopic Instrument*, AJ, 171, 285 (2026) [[arXiv](https://arxiv.org/abs/2503.14745)][[ADS](https://ui.adsabs.harvard.edu/abs/2026AJ....171..285D/abstract)]
 
