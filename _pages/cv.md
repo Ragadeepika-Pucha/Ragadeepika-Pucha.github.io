@@ -19,11 +19,11 @@ You can also view my publication list on any of the following sites: \\
 
 ### 2026
 
-[26] Jewell, S., Smethurst, R., Lintott, C., including **Pucha, R.**, et al., *Evidence of Secularly-driven Galaxy-SMBH Co-evolution in 2,435 DESI-disk Galaxies*, Submitted in MNRAS.
+[26] Alfarsy, R., Canning, R., Mueller, E., including **Pucha, R.**, et al., *CIV Line Shape Analysis and Black Hole Mass Estimates of DESI Quasars*, in DESI Collaboration Review.
 
-[25] Alfarsy, R., Canning, R., Mueller, E., including **Pucha, R.**, et al., *CIV Line Shape Analysis and Black Hole Mass Estimates of DESI Quasars*, in DESI Collaboration Review.
+[25] Jewell, S., Smethurst, R., Lintott, C., including **Pucha, R.**, et al., *Evidence of Secularly-driven Galaxy-SMBH Co-evolution in 2,435 DESI-disk Galaxies*, MNRAS, 552, 1783. [[arXiv](https://arxiv.org/abs/2609.22434)][[ADS](https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1783J/abstract)]
 
-[24] **Pucha, R.**, Juneau, S., Mezcua, M. et al., *A New Record Census of Dwarf AGN and a Bimodal M<sub>BH</sub> - M<sub>\*</sub> Scaling Relation with DESI DR1*, Accepted for Publication in ApJ [[arXiv](https://arxiv.org/abs/2606.02699)][[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260602699P/abstract)]
+[24] **Pucha, R.**, Juneau, S., Mezcua, M. et al., *A New Record Census of Dwarf AGN and a Bimodal M<sub>BH</sub> - M<sub>\*</sub> Scaling Relation with DESI DR1*, ApJ, 1009, 150. [[arXiv](https://arxiv.org/abs/2606.02699)][[ADS](https://ui.adsabs.harvard.edu/abs/2026ApJ..1009..150P/abstract)]
 
 [23] Morales, V., Mezcua, M., **Pucha, R.**, et al., *The Largest Sample of AGN Outflows in Dwarf Galaxies using DESI DR1*, Submitted to MNRAS [[arXiv](https://arxiv.org/abs/2607.02655)][[ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260702655R/abstract)]
 
