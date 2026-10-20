@@ -11,6 +11,7 @@ Here, I compile a list of meetings, conferences, workshops, visits, etc., I have
 Virtual attendances are marked with a *.
 
 ### 2026
+* Oct 12 - Oct 15: Hand-in-Hand: Rubin and Complementary Datasets Workshop, University of Utah, USA
 * Jun 1 - Jun 5: [AI Boot Camp for Astronomers](https://cosmicai.org/astroai-boot-camp), Texas Advanced Computing Center, Austin, USA
 * Apr 20 - Apr 24: [Empowering Science in the Data-Rich Era of Astronomy](https://noirlab.edu/science/news/announcements/sci26009), NSF NOIRLab, Tucson, USA
 
